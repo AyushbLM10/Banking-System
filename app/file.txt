@@ -1,0 +1,16 @@
+1 section with home
+2 div with home-header
+3 header
+4 header-box component
+5 send props type, title, subtext, user
+6 inside header-component div, h1 {header-box-title}
+with {title} span tage with username
+7 new component balanced box 
+8 props accounts, totalBanks, totalcurrentbalance
+9 inside component section {total-balance} div total-balance-chart 
+10 div h2 {totalBanks}
+11 div p {total current balance}
+12 component AnimatedCounter {amount = totalcurrentbalance}
+13 install query-string {import from lib/utils.js} install react-countup
+14 install chartjs 
+create component Doungnutchart js 

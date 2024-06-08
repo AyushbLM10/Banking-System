@@ -14,3 +14,15 @@ with {title} span tage with username
 13 install query-string {import from lib/utils.js} install react-countup
 14 install chartjs 
 create component Doungnutchart js 
+SIDEBAR
+make sure sidebar is in left side
+make sidebar componenet
+make variable for your first and last name
+pass this as user
+inside sidebar component
+change div to section make some nav inside section 
+now start our first link in this for home page and
+image tag assign appropirate icon from icons
+make h1 below image with name HORIZON
+now map over sidebarLinks to add all sidebars 
+add use client at the top as it is a hook
